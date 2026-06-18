@@ -1,0 +1,11 @@
+EmployeeID,Age,Experience,Salary,Department,PerformanceScore
+1,25,2,30000,IT,70
+2,30,5,45000,HR,80
+3,35,8,60000,Finance,90
+4,,10,70000,IT,85
+5,45,15,,HR,95
+6,50,20,120000,Finance,98
+7,28,3,35000,IT,75
+8,32,,50000,HR,82
+9,40,12,85000,Finance,88
+10,60,35,500000,IT,99
